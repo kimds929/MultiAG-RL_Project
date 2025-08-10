@@ -1,3 +1,7 @@
 # MultiAG-RL_Project
 '25 RL Project : Improving Multi-Agent Generalization via Agent-centric Centralization and Graph structure
 
+![Project Summary](etc/Project_summary.jpg)
+
+Project Poster
+![Poster](etc/Project_Poster.jpg)
