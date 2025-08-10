@@ -4,4 +4,4 @@
 ![Project Summary](etc/Project_summary.jpg)
 
 Project Poster
-![Poster](etc/[RL Project Poster] Graph구조를 활용한 Multi-Agent RL 샘플 효율성 향상.jpg)
+![Poster](etc/Project_Poster.jpg)
