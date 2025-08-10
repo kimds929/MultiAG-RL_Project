@@ -3,5 +3,6 @@
 
 ![Project Summary](etc/Project_summary.jpg)
 
-Project Poster
+
+[Project Poster]
 ![Poster](etc/Project_Poster.jpg)
